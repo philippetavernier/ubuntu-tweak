@@ -16,3 +16,13 @@ sudo apt update
 sudo apt-get install codium 
 
 ```
+
+## Avidemux
+
+```
+sudo add-apt-repository ppa:ubuntuhandbook1/avidemux
+sudo apt-get install avidemux2.7-qt5
+avidemux2.7_qt5 
+history
+
+```
